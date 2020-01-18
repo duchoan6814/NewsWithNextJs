@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { withRouter } from 'next/router';","map":{"version":3,"sources":["C:/Users/USER/Desktop/template/newsProject/pages/NewsDetail.js"],"names":["withRouter"],"mappings":"AAAA,SAAQA,UAAR,QAAyB,aAAzB","sourcesContent":["import {withRouter} from 'next/router'"]},"metadata":{},"sourceType":"module"}
